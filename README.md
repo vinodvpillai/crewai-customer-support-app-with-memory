@@ -2,6 +2,7 @@
 
 This project is designed to automate customer support tasks using **CrewAI**. It leverages custom agents and tools to provide efficient and high-quality customer service responses, including inquiry resolution and quality assurance.
 
+![](https://github.com/vinodvpillai/crewai-customer-support-app-with-memory/blob/master/resources/final-output.gif)
 ## Project Structure
 
 The repository consists of the following key files:
