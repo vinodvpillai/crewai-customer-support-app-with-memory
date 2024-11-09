@@ -12,8 +12,8 @@ def run():
     Run the crew.
     """
     inputs = {
-        "customer": "DeepLearningAI",
-        "person": "Andrew Ng",
+        "customer": "Vinod Pillai",
+        "person": "Vinod",
         "inquiry": "I need help with setting up a Crew "
                 "and kicking it off, specifically "
                 "how can I add memory to my crew? "
